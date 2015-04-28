@@ -33,3 +33,6 @@ segmentControl.setmOnSegmentControlClickListener(new SegmentControl.OnSegmentCon
 }); 
 ```
 * Enjoy yourself
+
+## Screen snapshot
+![snapshot](https://github.com/liuhuibin/AndroidSegmentControl/blob/master/.raw/snapshot.jpg)
